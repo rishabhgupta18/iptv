@@ -1,121 +1,16 @@
 #EXTM3U
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English Movies",& PRIVE HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="IN" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" group-title="Hindi News", ABP News
-http://directtv1.xyz:80/Freddie/Freddie/49641
-
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Discovery", Animal Planet HD
-http://directtv1.xyz:80/Freddie/Freddie/49591
-
-
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Movies", B4U MOVIES
-http://directtv1.xyz:80/Freddie/Freddie/134850
-
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi News", AAJ TAK HD
-http://directtv1.xyz:80/Freddie/Freddie/49643
-
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Astha", Anjan (720p)
-https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8?checkedby:iptvcat.com
-
-
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Movies", BFLIX MOVIES
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi News",CNBC Awaaz
-https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/3yumcV3.jpg" group-title="English News",CNBC TV18
-https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?checkedby:iptvcat.com
-
-
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi News",DD NEWS
-https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English News",ET Now
-http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8?checkedby:iptvcat.com
-
-
-#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/cMJVuIr.jpg" group-title="Hindi Movies", Shemaroo Bollywood Classic
-https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8?checkedby:iptvcat.com
-
-
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi News", NDTV India
-https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi News", NEWS 24
-https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/chunks.m3u8?checkedby:iptvcat.com
-
-
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi News", News 18 Hindi
-https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-p.m3u8?checkedby:iptvcat.com
-
-
-#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/news24-2.jpg" group-title="Hindi News",News 24
-https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8?checkedby:iptvcat.com
-
-
-#EXTINF:0,tvg-country="IN" group-title="Hindi Movies", & Pictures HD
-http://directtv1.xyz:80/Freddie/Freddie/49602
-
-#EXTINF:0,tvg-country="IN" group-title="Hindi Movies", & xplore HD
-http://directtv1.xyz:80/Freddie/Freddie/49682
-
-#EXTINF:0,tvg-country="IN" group-title="Hindi Movies", &Tv HD
-http://directtv1.xyz:80/Freddie/Freddie/49595
-
-
-#EXTINF:0,tvg-country="IN" group-title="Music", 9x Jalwa
-http://directtv1.xyz:80/Freddie/Freddie/49670
-
-#EXTINF:0,tvg-country="IN" group-title="Entertainment", 9x Jhakaas
-http://directtv1.xyz:80/Freddie/Freddie/49671
-
-#EXTINF:0,tvg-country="IN" group-title="Music", 9X MUSIC
-http://directtv1.xyz:80/Freddie/Freddie/134877
-
-
-#EXTINF:0,tvg-country="IN" group-title="Music", 9XM
-http://directtv1.xyz:80/Freddie/Freddie/49593
-
-#EXTINF:0, tvg-country="IN" group-title="Music", B4u Music
-http://directtv1.xyz:80/Freddie/Freddie/49588
-
-#EXTINF:0, tvg-country="IN" group-title="Cartoon", Cartoon Network
-http://directtv1.xyz:80/Freddie/Freddie/49584
-
-
-#EXTINF:0, tvg-country="IN" group-title="Hindi Movies", Cineplex HD
-http://directtv1.xyz:80/Freddie/Freddie/49582
-
-#EXTINF:0, tvg-country="IN" group-title="Hindi News", CNBC AWAZ
-http://directtv1.xyz:80/Freddie/Freddie/134891
-
-#EXTINF:0, tvg-country="IN" group-title="Entertainment", Colors HD
-http://directtv1.xyz:80/Freddie/Freddie/134816
-
-#EXTINF:0, tvg-country="IN" group-title="Entertainment", Colors Rishtey
-http://directtv1.xyz:80/Freddie/Freddie/49650
-
-
-#EXTINF:0, tvg-country="IN" group-title="Discovery", Discovery HD
-http://directtv1.xyz:80/Freddie/Freddie/49571
-
-#EXTINF:0, tvg-country="IN" group-title="Discovery", Discovery Science HD
-http://directtv1.xyz:80/Freddie/Freddie/49570
 
 #EXTINF:0, tvg-country="IN" group-title="Food", Food Food
 http://directtv1.xyz:80/Freddie/Freddie/49652
 
+#EXTINF:0 tvg-country="IN" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" group-title="Hindi News", ABP News
+http://directtv1.xyz:80/Freddie/Freddie/49641
 
-#EXTINF:0, tvg-country="IN" group-title="English", History HD
-http://directtv1.xyz:80/Freddie/Freddie/49563
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi News", AAJ TAK HD
+http://directtv1.xyz:80/Freddie/Freddie/49643
 
-#EXTINF:0, tvg-country="IN" group-title="English", HISTORY TV18 HD
-http://directtv1.xyz:80/Freddie/Freddie/134895
-
-#EXTINF:0, tvg-country="IN" group-title="Hindi Movies", Oscar MOVIE
-http://directtv1.xyz:80/Freddie/Freddie/134849
+#EXTINF:0, tvg-country="IN" group-title="Hindi News", Zee News
+http://directtv1.xyz:80/Freddie/Freddie/49523
 
 #EXTINF:0, tvg-country="IN" group-title="Hindi News", India News
 http://directtv1.xyz:80/Freddie/Freddie/49562
@@ -124,48 +19,137 @@ http://directtv1.xyz:80/Freddie/Freddie/49562
 #EXTINF:0, tvg-country="IN" group-title="Hindi News", India TV
 http://directtv1.xyz:80/Freddie/Freddie/49659
 
-#EXTINF:0, tvg-country="IN" group-title="Hindi Movies", MINEPLEX HD
-http://directtv1.xyz:80/Freddie/Freddie/134837
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi News", NDTV India
+https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0, tvg-country="IN" group-title="English Movies", MOVIES NOW HD
-http://directtv1.xyz:80/Freddie/Freddie/134866
-
-#EXTINF:0, tvg-country="IN" group-title="Entertainment", MTV+ HD
-http://directtv1.xyz:80/Freddie/Freddie/134872
-
-#EXTINF:0, tvg-country="IN" group-title="Discovery", Nat Geo Wild HD
-http://directtv1.xyz:80/Freddie/Freddie/49609
-
-#EXTINF:0, tvg-country="IN" group-title="Discovery", National Geographic HD
-http://directtv1.xyz:80/Freddie/Freddie/49610
-
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi News", NEWS 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/chunks.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0, tvg-country="IN" group-title="Hindi News", NEWS 18
 http://directtv1.xyz:80/Freddie/Freddie/134883
 
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi News", News 18 Hindi
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-p.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi News",DD NEWS
+https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0, tvg-country="IN" group-title="Hindi News", CNBC AWAZ
+http://directtv1.xyz:80/Freddie/Freddie/134891
+
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English News",ET Now
+http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/3yumcV3.jpg" group-title="English News", CNBC TV18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?checkedby:iptvcat.com
 
 
-#EXTINF:0, tvg-country="IN" group-title="Cartoon", Pogo (hindi)
-http://directtv1.xyz:80/Freddie/Freddie/49684
+#EXTINF:0, tvg-country="IN" group-title="Entertainment", STAR PLUS HD
+http://directtv1.xyz:80/Freddie/Freddie/134820
 
-#EXTINF:0, tvg-country="IN" group-title="Discovery", SONY BBC EARTH HD
-http://directtv1.xyz:80/Freddie/Freddie/134898
+#EXTINF:0, tvg-country="IN" group-title="Entertainment", Zee TV HD
+http://directtv1.xyz:80/Freddie/Freddie/134823
 
+#EXTINF:0, tvg-country="IN" group-title="Entertainment", SONY HD
+http://directtv1.xyz:80/Freddie/Freddie/134810
 
-#EXTINF:0, tvg-country="IN" group-title="Entertainment", Sony HD
-http://directtv1.xyz:80/Freddie/Freddie/49546
+#EXTINF:0, tvg-country="IN" group-title="Entertainment", Colors HD
+http://directtv1.xyz:80/Freddie/Freddie/134816
 
-#EXTINF:0, tvg-country="IN" group-title="Hindi Movies", Sony Max HD
-http://directtv1.xyz:80/Freddie/Freddie/49545
+#EXTINF:0, tvg-country="IN" group-title="Entertainment", Sony Sab HD
+http://directtv1.xyz:80/Freddie/Freddie/49544
+
+#EXTINF:0,tvg-country="IN" group-title="Entertainment", &Tv HD
+http://directtv1.xyz:80/Freddie/Freddie/49595
+
+#EXTINF:0, tvg-country="IN" group-title="Entertainment", Utsav Plus HD
+http://directtv1.xyz:80/Freddie/Freddie/49538
+
+#EXTINF:0, tvg-country="IN" group-title="Entertainment", STAR BHARAT HD
+http://directtv1.xyz:80/Freddie/Freddie/134812
+
+#EXTINF:0, tvg-country="IN" group-title="Entertainment", Colors Rishtey
+http://directtv1.xyz:80/Freddie/Freddie/49650
+
+#EXTINF:0, tvg-country="IN" group-title="Entertainment", MTV+ HD
+http://directtv1.xyz:80/Freddie/Freddie/134872
+
+#EXTINF:0, tvg-country="IN" group-title="Entertainment", Sony Wah
+http://directtv1.xyz:80/Freddie/Freddie/49661
 
 #EXTINF:0, tvg-country="IN" group-title="Entertainment", Sony Pal
 http://directtv1.xyz:80/Freddie/Freddie/49630
 
-#EXTINF:0, tvg-country="IN" group-title="English Movies", Sony Pix HD
-http://directtv1.xyz:80/Freddie/Freddie/49633
+#EXTINF:0,tvg-country="IN" group-title="Entertainment", 9x Jhakaas
+http://directtv1.xyz:80/Freddie/Freddie/49671
 
-#EXTINF:0, tvg-country="IN" group-title="Entertainment", Sony Sab HD
-http://directtv1.xyz:80/Freddie/Freddie/49544
+
+#EXTINF:0, tvg-country="IN" group-title="Hindi Movies", Utsav Gold HD
+http://directtv1.xyz:80/Freddie/Freddie/49542
+
+#EXTINF:0, tvg-country="IN" group-title="Hindi Movies", Star Gold Select HD
+http://directtv1.xyz:80/Freddie/Freddie/49541
+
+#EXTINF:0, tvg-country="IN" group-title="Hindi Movies", STAR MOVIE HD
+http://directtv1.xyz:80/Freddie/Freddie/134862
+
+
+#EXTINF:0,tvg-country="IN" group-title="Hindi Movies", & Pictures HD
+http://directtv1.xyz:80/Freddie/Freddie/49602
+
+#EXTINF:0,tvg-country="IN" group-title="Hindi Movies", & xplore HD
+http://directtv1.xyz:80/Freddie/Freddie/49682
+
+#EXTINF:0, tvg-country="IN" group-title="Hindi Movies", Zee Cinema HD
+http://directtv1.xyz:80/Freddie/Freddie/49524
+
+#EXTINF:0, tvg-country="IN" group-title="Hindi Movies", ZEE ACTION
+http://directtv1.xyz:80/Freddie/Freddie/134852
+
+#EXTINF:0, tvg-country="IN" group-title="Hindi Movies", ZEE ANMOL CINEMA
+http://directtv1.xyz:80/Freddie/Freddie/134855
+
+#EXTINF:0, tvg-country="IN" group-title="Hindi Movies", Zee Bollywood
+http://directtv1.xyz:80/Freddie/Freddie/134854
+
+#EXTINF:0, tvg-country="IN" group-title="Hindi Movies", ZEE CLASSIC
+http://directtv1.xyz:80/Freddie/Freddie/134853
+
+
+
+#EXTINF:0, tvg-country="IN" group-title="Hindi Movies", Cineplex HD
+http://directtv1.xyz:80/Freddie/Freddie/49582
+
+#EXTINF:0, tvg-country="IN" group-title="Hindi Movies", Oscar MOVIE
+http://directtv1.xyz:80/Freddie/Freddie/134849
+
+
+
+#EXTINF:0, tvg-country="IN" group-title="Hindi Movies", MINEPLEX HD
+http://directtv1.xyz:80/Freddie/Freddie/134837
+
+#EXTINF:0, tvg-country="IN" group-title="Hindi Movies", Sony Max HD
+http://directtv1.xyz:80/Freddie/Freddie/49545
+
+
+
+
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Movies", B4U MOVIES
+http://directtv1.xyz:80/Freddie/Freddie/134850
+
+#EXTINF:0, tvg-country="IN" group-title="Hindi Movies", BFLIX
+http://directtv1.xyz:80/Freddie/Freddie/134857
+
+#EXTINF:0, tvg-country="IN" group-title="Hindi Movies", UTV MOVIES HD
+http://directtv1.xyz:80/Freddie/Freddie/134848
+
+#EXTINF:0, tvg-country="IN" group-title="Hindi Movies", WOW CINEMA
+http://directtv1.xyz:80/Freddie/Freddie/134856
+
+
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/cMJVuIr.jpg" group-title="Hindi Movies", Shemaroo Bollywood Classic
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8?checkedby:iptvcat.com
+
 
 
 #EXTINF:0, tvg-country="IN" group-title="Sports", SONY SIX HD
@@ -179,31 +163,6 @@ http://directtv1.xyz:80/Freddie/Freddie/134988
 
 #EXTINF:0, tvg-country="IN" group-title="Sports", SONY TEN 3 HD
 http://directtv1.xyz:80/Freddie/Freddie/134989
-
-#EXTINF:0, tvg-country="IN" group-title="Entertainment", Sony Wah
-http://directtv1.xyz:80/Freddie/Freddie/49661
-
-#EXTINF:0, tvg-country="IN" group-title="Entertainment", SONY HD
-http://directtv1.xyz:80/Freddie/Freddie/134810
-
-#EXTINF:0, tvg-country="IN" group-title="Entertainment", STAR BHARAT HD
-http://directtv1.xyz:80/Freddie/Freddie/134812
-
-#EXTINF:0, tvg-country="IN" group-title="Hindi Movies", Utsav Gold HD
-http://directtv1.xyz:80/Freddie/Freddie/49542
-
-#EXTINF:0, tvg-country="IN" group-title="Hindi Movies", Star Gold Select HD
-http://directtv1.xyz:80/Freddie/Freddie/49541
-
-#EXTINF:0, tvg-country="IN" group-title="Hindi Movies", STAR MOVIE HD
-http://directtv1.xyz:80/Freddie/Freddie/134862
-
-
-#EXTINF:0, tvg-country="IN" group-title="Entertainment", Utsav Plus HD
-http://directtv1.xyz:80/Freddie/Freddie/49538
-
-#EXTINF:0, tvg-country="IN" group-title="Entertainment", STAR PLUS HD
-http://directtv1.xyz:80/Freddie/Freddie/134820
 
 #EXTINF:0, tvg-country="IN" group-title="Sports", STAR SPORT 1-HD (hindi)
 http://directtv1.xyz:80/Freddie/Freddie/134977
@@ -220,34 +179,60 @@ http://directtv1.xyz:80/Freddie/Freddie/49527
 #EXTINF:0, tvg-country="IN" group-title="Sports", TEN SPORTS
 http://directtv1.xyz:80/Freddie/Freddie/134994
 
-#EXTINF:0, tvg-country="IN" group-title="Hindi Movies", BFLIX
-http://directtv1.xyz:80/Freddie/Freddie/134857
-
-#EXTINF:0, tvg-country="IN" group-title="Hindi Movies", UTV MOVIES HD
-http://directtv1.xyz:80/Freddie/Freddie/134848
-
-#EXTINF:0, tvg-country="IN" group-title="Hindi Movies", WOW CINEMA
-http://directtv1.xyz:80/Freddie/Freddie/134856
-
-#EXTINF:0, tvg-country="IN" group-title="Hindi Movies", ZEE ACTION
-http://directtv1.xyz:80/Freddie/Freddie/134852
-
-#EXTINF:0, tvg-country="IN" group-title="Hindi Movies", ZEE ANMOL CINEMA
-http://directtv1.xyz:80/Freddie/Freddie/134855
-
-#EXTINF:0, tvg-country="IN" group-title="Hindi Movies", Zee Bollywood
-http://directtv1.xyz:80/Freddie/Freddie/134854
-
-#EXTINF:0, tvg-country="IN" group-title="Hindi Movies", Zee Cinema HD
-http://directtv1.xyz:80/Freddie/Freddie/49524
-
-#EXTINF:0, tvg-country="IN" group-title="Hindi Movies", ZEE CLASSIC
-http://directtv1.xyz:80/Freddie/Freddie/134853
 
 
-#EXTINF:0, tvg-country="IN" group-title="Hindi News", Zee News
-http://directtv1.xyz:80/Freddie/Freddie/49523
 
-#EXTINF:0, tvg-country="IN" group-title="Entertainment", Zee TV HD
-http://directtv1.xyz:80/Freddie/Freddie/134823
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Discovery", Animal Planet HD
+http://directtv1.xyz:80/Freddie/Freddie/49591
 
+#EXTINF:0, tvg-country="IN" group-title="Discovery", Discovery HD
+http://directtv1.xyz:80/Freddie/Freddie/49571
+
+#EXTINF:0, tvg-country="IN" group-title="Discovery", Discovery Science HD
+http://directtv1.xyz:80/Freddie/Freddie/49570
+
+#EXTINF:0, tvg-country="IN" group-title="Discovery", Nat Geo Wild HD
+http://directtv1.xyz:80/Freddie/Freddie/49609
+
+#EXTINF:0, tvg-country="IN" group-title="Discovery", National Geographic HD
+http://directtv1.xyz:80/Freddie/Freddie/49610
+
+
+#EXTINF:0, tvg-country="IN" group-title="Discovery", SONY BBC EARTH HD
+http://directtv1.xyz:80/Freddie/Freddie/134898
+
+
+
+
+
+#EXTINF:0, tvg-country="IN" group-title="Cartoon", Cartoon Network
+http://directtv1.xyz:80/Freddie/Freddie/49584
+
+
+#EXTINF:0, tvg-country="IN" group-title="Cartoon", Pogo (hindi)
+http://directtv1.xyz:80/Freddie/Freddie/49684
+
+
+
+#EXTINF:0,tvg-country="IN" group-title="Music", 9x Jalwa
+http://directtv1.xyz:80/Freddie/Freddie/49670
+
+
+
+#EXTINF:0,tvg-country="IN" group-title="Music", 9X MUSIC
+http://directtv1.xyz:80/Freddie/Freddie/134877
+
+
+#EXTINF:0,tvg-country="IN" group-title="Music", 9XM
+http://directtv1.xyz:80/Freddie/Freddie/49593
+
+#EXTINF:0, tvg-country="IN" group-title="Music", B4u Music
+http://directtv1.xyz:80/Freddie/Freddie/49588
+
+
+
+#EXTINF:0, tvg-country="IN" group-title="English", History HD
+http://directtv1.xyz:80/Freddie/Freddie/49563
+
+#EXTINF:0, tvg-country="IN" group-title="English", HISTORY TV18 HD
+http://directtv1.xyz:80/Freddie/Freddie/134895
