@@ -17,7 +17,7 @@ http://directtv1.xyz:80/Freddie/Freddie/134850
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi News", AAJ TAK HD
 http://directtv1.xyz:80/Freddie/Freddie/49643
 
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi News" TEZ
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi News", TEZ
 http://directtv1.xyz:80/Freddie/Freddie/134890
 
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Astha", Anjan (720p)
